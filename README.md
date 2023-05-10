@@ -1,2 +1,29 @@
 # Questionnaire-Management-System
  Questionnaire Maanagement System is a website that is designed to help organizations or individuals create, distribute, and manage questionnaires.
+
+A questionnaire management system using Core PHP with the following features:
+
+Back-end:
+
+1. Admin Login: An authentication system that allows only authorized personnel to access the system.
+2. User Module: A module that allows the administrator to manage user accounts, including create, read, update, and delete (CRUD) operations.
+3. Question Master: A module that allows the administrator to add questionnaires.
+
+Front-end:
+
+1. User Register: A module that allows users to register for an account in the system.
+2. User Questionnaires: A module that displays a single question to the user at a time and allows the user to submit an answer. 
+   The system should be able to track the user's progress and store their responses.
+3. User Scorecard: A module that displays the user's score or performance in the questionnaire.
+4. User List: A module that allows the administrator to view a list of registered users.
+5. User Detail Update: A module that allows users to update their personal information, such as their name and email address.
+
+To implement this system using Core PHP, the following steps can be taken:
+
+a. Design the database schema to store user information, questionnaires, and responses.
+b. Develop the user interface using HTML/CSS/JavaScript and Bootstrap framework for a responsive design.
+c. Implement the back-end using Core PHP to handle user authentication and database CRUD operations.
+d. Deploy the system to a production server and monitor its performance and user feedback for further improvements.
+
+In conclusion, a questionnaire management system using Core PHP can be a powerful tool for managing user feedback and performance metrics. 
+By implementing the above features, the system can provide valuable insights for organizations and individuals looking to improve their products or services.
